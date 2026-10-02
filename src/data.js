@@ -38,8 +38,8 @@ const projectsData = [
         title: 'My CV',
         description: 'SPA додаток, створений на базі Vite та React з використанням. Розробка власного резюме із використанням MUI(Material Design).',
         tags: ['Vite', 'React', 'Vercel', 'MUI', 'React Router'],
-        demoLink: 'https://vercel.com/gawakas-projects/my-cv/4HMqM1PA15XniyJapzSUP48XX29J',
-        githubLink: 'https://github.com/Gawaka/FrontEnd_pro/tree/main/home_work_lesson_32/my-cv-app',
+        demoLink: 'https://mycv-lemon-two.vercel.app/',
+        githubLink: 'https://github.com/Gawaka/MyCV',
         accentColor: 'primary.light',
         textColor: 'primary.main',
         preview: '/projectsPreview/cv.png'
